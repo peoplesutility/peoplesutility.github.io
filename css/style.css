@@ -165,7 +165,7 @@ header.post { border-bottom: 1px solid #0FC; }
 /* RESPONSIVE STYLING */
 /* tablets & phablets */
 @media only screen and (max-width: 569px) { /* 569 - iphone SE */
-	h1 { font-size: 3.5em; }
+	h1 { font-size: 3em; }
 	blockquote { margin-right: 0; padding-right: 0; border-right: 0; width: 100%; }
 	nav .loc { width: 94%; }
  	nav ul { text-align: center; }
