@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People&#39;s Utility Commons</title>
-    <link>https://peoplesutility.org/</link>
+    <link>https://peoplesutility.github.io/</link>
     <description>Recent content on People&#39;s Utility Commons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://peoplesutility.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peoplesutility.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
